@@ -1,0 +1,32 @@
+/* Establecer el tamano de la imagen */
+img{
+  height: 120px;
+}
+
+/* Estilos a las fuentes */
+/* tamano */
+.description {
+  font-size: 20px;
+}
+
+/* grosor */
+#cook-time{
+  font-weight: bold;
+}
+
+.ingredients li{
+  list-style: square;
+}
+
+p.time {
+  color: gray;
+}
+
+.external-link {
+  color: seagreen;
+}
+
+/* fuente */
+h1, h2, p, li {
+  font-family: Helvetica;
+}
